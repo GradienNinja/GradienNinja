@@ -39,5 +39,5 @@ A classification project predicting whether bank customers will accept personal 
 Available for collaboration on data science projects and discussions around machine learning applications.
 
 - GitHub: [@GradienNinja](https://github.com/GradienNinja)
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn URL]
+- Email: demoncrynation@gmail.com 
+
